@@ -15,9 +15,10 @@ items:
  - ProLoser/Github-Omnibox
  - Justineo/github-hovercard
  - panzerdp/clipboardy
+ - zenorocha/codecopy
  - kamranahmedse/githunt
  - harshjv/github-repo-size
- - sindresorhus/refined-github
+ - refined-github/refined-github
  - softvar/enhanced-github
  - bitoiu/markwrap
  - bitoiu/github-red-alert
@@ -27,8 +28,17 @@ items:
  - ryanflorence/github-plusone-extension
  - Mottie/GitHub-userscripts
  - rgehan/octolenses
- - xxhomey19/github-file-icon
+ - homerchen19/github-file-icons
  - StylishThemes/GitHub-Dark
+ - xthexder/wide-github
+ - berzniz/github_pr_tree
+ - N1ck/gifs-for-github
+ - EnixCoda/Gitako
+ - vladgolubev/quickreview-for-github
+ - matthizou/github-show-avatars
+ - dderevjanik/github-vscode-icons
+ - npmhub/npmhub
+ - octobox/extension
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
